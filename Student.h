@@ -1,6 +1,7 @@
 class Student {
+  
   // private section
-  //    int studentId
+  //    int studentId;
   //    name <- 20 charcters
   
   // public section
